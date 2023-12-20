@@ -1,0 +1,172 @@
+
+
+
+
+
+#N1 {
+    display: flex;
+    flex-grow: 20px;
+    background-color: rgb(243, 0, 0);
+    
+
+}
+#N2 {
+    
+    background-color: rgb(215, 0, 0);
+
+}
+
+#N3 {
+    background-color: rgb(187, 0, 0);
+
+   
+}
+
+#N4 {
+    background-color: rgb(161, 0, 0);
+
+   
+}
+
+#N5 {
+    background-color: rgb(134, 0, 0);
+
+   
+}
+#N6 {
+    background-color: rgb(107, 0, 0);
+
+   
+}
+#N7 {
+    background-color: rgb(80, 0, 0);
+    flex-grow: 100px;
+    
+    
+
+   
+}
+
+.haz {
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    height: 400px;
+    align-items: center;
+    
+   
+    
+    background: linear-gradient(0deg, rgba(0,0,0,1)0%, rgba(255,255,255,1)100%)
+
+    
+
+    
+
+}
+.haz > div {
+    line-height: 20px;
+    border-color: black;
+    border-radius: 100px;
+    border:solid 5px;
+    padding: 50px;
+    text-align: center;
+    
+    
+}
+
+
+.mem  {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-evenly;
+
+
+ 
+ 
+}
+
+.haz1 > div {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly
+
+    
+}
+.haz1{
+    background:linear-gradient(270deg, rgba(0,0,0,1)20%, rgba(255,255,255,1)80%);
+    height: 900px;
+    
+    
+}
+ 
+.Ima > img {
+   
+    height: 365px;
+
+}
+#Al {
+    width: 600;
+}
+
+
+
+.D {
+    margin: 10px;
+    background: 20;
+    padding: 20px;
+    border-radius: 80px;
+    border:solid 5px black;
+    
+    
+}
+.Du {
+    margin: 10px;
+    
+    padding: 20px;
+    border-radius: 80px;
+    border:solid 5px black;
+    
+}
+.Dua {
+    margin: 10px;
+   
+    padding: 20px;
+    border-radius: 80px;
+    border:solid 5px black;
+    
+}
+.Dual {
+    margin: 10px;
+   
+    padding: 20px;
+    border-radius: 80px;
+    border:solid 5px black;
+}
+.Duali{
+    margin: 10px;
+   
+    padding: 20px;
+    border-radius: 80px;
+    border:solid 5px black;
+}
+.Dualit{
+    margin: 10px;
+   
+    padding: 20px;
+    border-radius: 80px;
+    border:solid 5px black;
+}
+.Duality{ 
+    margin: 10px;
+   
+    padding: 20px;
+    border-radius: 80px;
+    border:solid 5px black;
+}
+
+
+
+
+
